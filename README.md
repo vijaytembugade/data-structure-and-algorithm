@@ -1,2 +1,15 @@
-# data-structure-and-algorithm
-Contain the code for data structure and algorithm in javascript
+# data-structure-and-algorithm 
+Repo contains the code for data structure and algorithm in javascript. 
+## Data Structure like:
+* Linked List
+* Doubly Linked List
+* Graphs
+* Binary Trees
+* Stacks 
+* Queues
+* Hash Tables
+
+## Algorithms like :
+* Buble Sort
+* Selection Sort
+* Recursion
