@@ -13,3 +13,4 @@ Repo contains the code for data structure and algorithm in javascript.
 * Buble Sort
 * Selection Sort
 * Recursion
+* Insertion Sort
