@@ -15,3 +15,5 @@ Repo contains the code for data structure and algorithm in javascript.
 * Recursion
 * Insertion Sort
 * Quick Sort
+* Breath First Search
+* Depth First Search (preOrder, inOrder and postOrder)
