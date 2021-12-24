@@ -82,6 +82,46 @@ class BST{
   console.log(result)
   return result
   }
+
+  //Depth first search 
+  DFS_preOrder(){
+    let result = []
+    function traverse(currentNode){
+      result.push(currentNode.value)
+      if(currentNode.left)
+        traverse(currentNode.left)
+      if(currentNode.right)
+        traverse(currentNode.right)
+    }
+    traverse(this.root)
+    return result
+  }
+
+  DFS_postOrder(){
+     let result = []
+    function traverse(currentNode){
+      if(currentNode.left)
+        traverse(currentNode.left)
+      if(currentNode.right)
+        traverse(currentNode.right)
+      result.push(currentNode.value)
+    }
+    traverse(this.root)
+    return result
+  }
+
+  DFS_inOrder(){
+     let result = []
+    function traverse(currentNode){
+      if(currentNode.left)
+        traverse(currentNode.left)
+      result.push(currentNode.value)
+      if(currentNode.right)
+        traverse(currentNode.right)
+    }
+    traverse(this.root)
+    return result
+  }
 }
 
 let bst = new BST;
