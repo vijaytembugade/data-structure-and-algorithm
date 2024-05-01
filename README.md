@@ -1,19 +1,22 @@
-# data-structure-and-algorithm 
-Repo contains the code for data structure and algorithm in javascript. 
-## Data Structure like:
-* Linked List
-* Doubly Linked List
-* Graphs
-* Binary Trees
-* Stacks 
-* Queues
-* Hash Tables
+# DSA Roadmap And Checklist
 
-## Algorithms like :
-* Buble Sort
-* Selection Sort
-* Recursion
-* Insertion Sort
-* Quick Sort
-* Breath First Search
-* Depth First Search (preOrder, inOrder and postOrder)
+## Programming Language Basics
+
+## Time and Space Complexity
+
+## Array 
+- [] Rearrangement Questions
+- [] Rotaion Questions
+- [] Multi Dimentional Arrays
+- [] Time Complexityn of Arrays
+- [] 2 pointer Questions
+- [] Kadane Algorithm
+ 
+## Strings
+- [] substrings Problems
+- [] Subsequence Problems
+- [] Palindrom
+- [] 2 Pointer Questions
+- [] Pattern Search
+- [] Rotations
+- [] Traversing 
