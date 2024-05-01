@@ -5,3 +5,4 @@
 // 3. understand the how array works in JS
 // 4. Understand for loop, forEach, map filter, reduce ,fo...in and for..of loop first.
 
+console.log("This is about arrays")
