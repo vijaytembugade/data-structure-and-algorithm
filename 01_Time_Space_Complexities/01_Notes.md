@@ -40,3 +40,6 @@ Useful Tips
 - Drop Constants
     - O(2n) simplifies to O(n).
 - When we are measuring Big O , we are always measuring worst case.
+
+Graphical view of TCs: 
+![Time Complexities](image.png)
