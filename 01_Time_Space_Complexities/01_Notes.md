@@ -41,5 +41,8 @@ Useful Tips
     - O(2n) simplifies to O(n).
 - When we are measuring Big O , we are always measuring worst case.
 
+Cheat Sheet for big O :
+ - https://www.bigocheatsheet.com/
+
 Graphical view of TCs: 
 ![Time Complexities](image.png)
