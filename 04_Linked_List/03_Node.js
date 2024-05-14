@@ -55,4 +55,19 @@ const tailNode = {
 
 const tail = tailNode;
 
-// This is how linkedlist looks like.
+//--------------------------------------------------------------------
+
+//NODE CONSTRUCTOR 
+class Node {
+    constructor(value){
+        this.value = value;
+        this.next = null
+    }
+}
+/**
+ * this is value Node constructore which will be like 
+ * {
+ *  value: 3,
+ *  next:  null
+ * }
+ */
