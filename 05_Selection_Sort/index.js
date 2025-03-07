@@ -1,3 +1,4 @@
+// Selection sort
 const arr = [45, 9, 46, 24, 52, 20, 13];
 
 let n = arr.length;
